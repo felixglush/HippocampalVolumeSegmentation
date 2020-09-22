@@ -1,0 +1,2 @@
+TestVolumes filter=lfs diff=lfs merge=lfs -text
+TrainingSet filter=lfs diff=lfs merge=lfs -text
